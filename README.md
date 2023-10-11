@@ -10,7 +10,7 @@
 ## Awards					       		
 - Bronze Award for the Graduate Digital Invention Innovation and Design (GDIID) 	| Universiti Teknologi MARA (UiTM) (_2019_)	 			        		
 
-- ## Certifications						       		
+## Certifications						       		
 - Foundation in Data Analytics  | TalentlabMY (_2022_)
 - Microsoft Excel	Intermediate Course  | UiTM (_2019_)
 - DOSM Datathon  | Department of Statistics Malaysia (_2018_)       		
