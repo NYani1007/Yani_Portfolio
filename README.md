@@ -30,18 +30,11 @@
 
 ## Projects
 ### Prediction of Cardiovascular Disease using Data Mining Techniques 
-#[Publication](https://www.mdpi.com/1424-8220/22/8/3048) in medium
+#[Medium](https://medium.com/@noriszayyani97/prediction-of-cardiovascular-disease-using-data-mining-techniques-e56fc2d1442a)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Applied **RapidMiner** tools to conduct a comprehensive study to identify the optimal data mining technique for cardiovascular disease prediction using a dataset of 70,000 observations and 11 key risk factors. Employed Logistic Regression, Decision Tree, and Naive Bayes, coupled with feature selection wrapper methods, ultimately determining that Decision Tree with Optimize Selection yielded the best performance, achieving an accuracy rate of 73.34% along with high precision, sensitivity, and specificity."
 
 #![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Boston House Price Prediction using Multiple Linear Regression Model 
-#[Publication](https://www.mdpi.com/1424-8220/22/11/4240) in medium
-
-Used **R** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 13 variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Best-Fit Distibution Model of Water Consumption
 #[Publication](https://ir.uitm.edu.my/id/eprint/50164/)
