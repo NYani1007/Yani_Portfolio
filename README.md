@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, RapidMiner, SPSS, SAS, Ms. Excel
 
 ## Education							       		
-- M.S., Applied Statistics	| Universiti Teknologi MARA (UiTM) Shah Alam (_2023-present_)	 			        		
-- B.S., (Hons) Statistics  | Universiti Teknologi MARA (UiTM) Seremban (_2017-2020_)
+- MSc., Applied Statistics	| Universiti Teknologi MARA (UiTM) Shah Alam (_2023-present_)	 			        		
+- BSc., (Hons) Statistics  | Universiti Teknologi MARA (UiTM) Seremban (_2017-2020_)
 
 
 ## Awards					       		
