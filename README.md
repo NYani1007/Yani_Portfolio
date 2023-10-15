@@ -34,7 +34,6 @@
 
 Applied **RapidMiner** tools to conduct a comprehensive study to identify the optimal data mining technique for cardiovascular disease prediction using a dataset of 70,000 observations and 11 key risk factors. Employed Logistic Regression, Decision Tree, and Naive Bayes, coupled with feature selection wrapper methods, ultimately determining that Decision Tree with Optimize Selection yielded the best performance, achieving an accuracy rate of 73.34% along with high precision, sensitivity, and specificity."
 
-#![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Best-Fit Distibution Model of Water Consumption
 #[Publication](https://ir.uitm.edu.my/id/eprint/50164/)
