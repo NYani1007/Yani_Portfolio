@@ -32,7 +32,7 @@
 ### Prediction of Cardiovascular Disease using Data Mining Techniques 
 #[Medium](https://medium.com/@noriszayyani97/prediction-of-cardiovascular-disease-using-data-mining-techniques-e56fc2d1442a)
 
-Applied **RapidMiner** tools to conduct a comprehensive study to identify the optimal data mining technique for cardiovascular disease prediction using a dataset of 70,000 observations and 11 key risk factors. Employed Logistic Regression, Decision Tree, and Naive Bayes, coupled with feature selection wrapper methods, ultimately determining that Decision Tree with Optimize Selection yielded the best performance, achieving an accuracy rate of 73.34% along with high precision, sensitivity, and specificity."
+Applied **RapidMiner** tools to conduct a comprehensive study to identify the optimal data mining technique for cardiovascular disease prediction using a dataset of 70,000 observations and 11 key risk factors. Employed Logistic Regression, Decision Tree, and Naive Bayes, coupled with feature selection wrapper methods, ultimately determining that Decision Tree with Optimize Selection yielded the best performance, achieving an accuracy rate of 73.34% along with high precision, sensitivity, and specificity.
 
 
 ### Best-Fit Distibution Model of Water Consumption
