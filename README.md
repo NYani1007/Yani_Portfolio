@@ -4,7 +4,7 @@
 
 ## Education							       		
 - MSc., Applied Statistics	| Universiti Teknologi MARA (UiTM) Shah Alam (_2023-present_)	 			        		
-- BSc., (Hons) Statistics  | Universiti Teknologi MARA (UiTM) Seremban (_2017-2020_)
+- BSc., (Hons) Statistics  | Universiti Teknologi MARA (UiTM) Seremban (_2016-2020_)
 
 
 ## Awards					       		
